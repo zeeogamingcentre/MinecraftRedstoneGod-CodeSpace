@@ -31,7 +31,11 @@ ZEEO strike
 15* staff list of commands and glitches
 
 16* Add a directory page in staff dashboard, means in the page, input a user’s id or Display Name or email and they can see the user’s stats,played games,owned things etc.etc. And suspend or ban them
+
 17* anyone can use !claim-code <promo code> In turn, staff can create codes using !add-code <code> <tokens to grant when claimed>
+
 18* Allow players to jump in game using jump button (iPad) or Space key (computer)
+
 19*In arena they are a player silhouette not 20 red sticks just one player and ai doesn’t automatically help ppl attack when they do nothing.Their avatar (attached pictures above) appears over their head along with their remaining HP level(bar and numbers)
+
 20* Allow others to set their own username(it appears in 16* and friending page(8*))

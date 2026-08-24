@@ -38,4 +38,5 @@
 20* Allow others to set their own username(it appears in 16* and friending page(8*))
 
 Add a page right before the game starts that shows who you are up against in the game.
+
 Edit !give-coins <no_of_coins> to !give-coins <userid(if empty then the staff that used the command> <no_of_coins>.

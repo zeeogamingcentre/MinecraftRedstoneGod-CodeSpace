@@ -18,7 +18,7 @@
 
 10* live chat in gameplay(synced with chat in homepage)
 
-11* Banning and suspending command 
+11* Banning(do NOT delete their account but lock them out of their account !ban <userid> until !unban <userid> is used.) and suspending (!suspend <userid> <duration> locks them out of their account like !ban but allows you to set a duration) command 
 
 12* At least 25 more staff commands
 
